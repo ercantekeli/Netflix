@@ -1,3 +1,2 @@
 # Netflix_Survey_Form
-
-https://ercantekeli.github.io/netflix/ you can check my netflix survey form practice on the link.
+You can check my netflix survey form practice on the link >> https://ercantekeli.github.io/netflix/
